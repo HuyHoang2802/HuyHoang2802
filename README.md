@@ -3,7 +3,7 @@
   &lt;&lt;&lt;&lt;&lt;&lt;&lt; Huy Hoàng's GitHub Status &gt;&gt;&gt;&gt;&gt;&gt;&gt;
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuyHoang2802&show_icons=true&theme=tokyonight" width="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=HuyHoang2802&show_icons=true&theme=tokyonight" width="400">
 </p>
 
 
