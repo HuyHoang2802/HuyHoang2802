@@ -3,4 +3,6 @@
   &lt;&lt;&lt;&lt;&lt;&lt;&lt; Huy Hoàng's GitHub Status &gt;&gt;&gt;&gt;&gt;&gt;&gt;
 </p>
 <img src = "https://github-readme-stats.vercel.app/api?username=HuyHoang2802&show_icons=true&theme=tokyonight" with = "300">
-
+<p align="center">
+  <img src="https://your-image-url.png" alt="Huy Hoàng's GitHub Stats" width="400">
+</p>
